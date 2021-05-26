@@ -10,4 +10,4 @@ gspread
 plotly.express
 pyaztro
 ipywidgets
-IPython.display
+IPython
